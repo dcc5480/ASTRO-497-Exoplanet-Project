@@ -5,9 +5,10 @@ The prototype file can be found [here](https://github.com/dcc5480/ASTRO-497-Exop
 
 ## Short Guide for Testing the Prototype
 - Run prototype2.py
-- Input a Kepler ID (Kepler-10 should work well)
-- Input a row value starting from 0 (0 works well with Kepler-10)
-- Input a description from the available list ("Lightcurve Long Cadence (CLC) - Q2" works well for this example)
+- Choose an existing filepath for saving downloaded datasets.
+- Input a Kepler ID. (Kepler-10 should work well)
+- Input a row value starting from 0. (0 works well with Kepler-10)
+- Input a description from the available list. ("Lightcurve Long Cadence (CLC) - Q2" works well for this example)
 - Close each graph to see the next one.
 - The graphs displayed are the raw data, cleaned data, periodogram, and folded data in that order. In addition, the detected period is printed.
 
