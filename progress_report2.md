@@ -1,6 +1,8 @@
 ## General Description
 For this prototype, I again decided to work in Python as I was having trouble with using Julia effectively. If possible, I would prefer to continue working in Python, as while I can understand the labs given in class well enough to reproduce them in Python, I have yet to become comfortable with writing in the Julia language. This may result in some extra work being required, but I believe that the tradeoff would be worthwhile for me.
+
 I have largely completed the goal I set out in my original project plan, and I think I have a good idea of what I still need to do for the project. However, I have completed many but not all of the recommended goals for this checkpoint.
+
 The prototype file can be found [here](https://github.com/dcc5480/ASTRO-497-Exoplanet-Project/blob/main/prototype2.py).
 
 ## Short Guide for Testing the Prototype
